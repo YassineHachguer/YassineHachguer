@@ -28,7 +28,6 @@
 
 - 🌌 Exploring **Big Data Platforms** like Apache Spark and Hadoop
 - 🤖 Advancing my expertise in **Machine Learning** and **AI Development**
-- 🌐 Developing scalable cloud-native solutions on **AWS** and **Azure**
 - 📊 Building pipelines for **ETL** and data transformations
 
 ## 🛠️ Tech Arsenal
